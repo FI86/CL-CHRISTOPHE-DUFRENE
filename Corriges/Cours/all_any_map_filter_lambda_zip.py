@@ -30,12 +30,6 @@ print("liste map :", liste2)
 liste3 = list(filter(lambda x: x < 3, liste))
 print("liste avec éléments inférieur à 3 :", liste3)
 
-# lambda
-def celsiusToFahrenheit(temp):
-    return round((temp * 9/5) + 32, 2)
-
-def fahrenheitToCelsius(temp):
-    return round((temp - 32) * 5/9, 2)
 
 # Fonction native zip
 def zipper_dezipper():
@@ -70,6 +64,14 @@ def zipper_dezipper():
 
     print("liste nombre =", ln)
     print("tuple nombre =", tn)
+
+# Fonctions de conversion de température
+def celsiusToFahrenheit(temp):
+    return round((temp * 9/5) + 32, 2)
+
+def fahrenheitToCelsius(temp):
+    return round((temp - 32) * 5/9, 2)
+
 
 # Fonction principale
 def main():
