@@ -17,12 +17,20 @@
 
 # Classe Rectangle
 
-# Creation d'objet
 
-# Addition des rectangles
+# Programme principale
+def main():
+    # Creation d'objet
+    pass
 
-# Multiplication par un entier
+    # Addition des rectangles
 
-# Rectangle avec meme surface
+    # Multiplication par un entier
 
-# Affichage des resultats
+    # Rectangle avec meme surface
+
+    # Affichage des resultats
+
+# Execution du programme principal
+if __name__ == "__main__":
+    main()

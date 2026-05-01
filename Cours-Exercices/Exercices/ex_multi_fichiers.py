@@ -6,8 +6,7 @@
 # Complétez ensuite C avec les éléments restant sur l’autre.
 
 def main():
-   pass
+    pass
 
 if __name__ == "__main__":
     main()
-    
