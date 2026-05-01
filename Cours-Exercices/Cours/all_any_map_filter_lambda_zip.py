@@ -14,6 +14,7 @@
 # lambda
 
 # Fonction native zip
+
     # La taille du tuple et de la liste de nombres sont different.
     # Convertir en liste car zip est un iterateur (comme map et filter)
 
@@ -25,16 +26,15 @@
 
     # Dezipper
 
-
+    
 # Fonction principale
 def main():
     pass
     # Appel par fonction sans lambda
 
     # Appel avec lambda on a plus besoin des fonctions qui sont utilisées qu'une fois.
-
+    
     # Appel la fonction pour zipper et dezipper.
-
 
 if __name__ == "__main__":
     main()

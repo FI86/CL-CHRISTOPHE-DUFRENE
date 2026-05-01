@@ -13,12 +13,12 @@
 
 # Fonction avec un nombre variable d'arguments
 
-# Argument nommé obligatoire
+# Argument nommé obligatoire pour être modifier
+
+    # Test si valide est booléen
 
 # Fonction principale
-def main():
-    pass
 
 # Appel fonction principale
 if __name__ == "__main__":
-    main()
+    pass
